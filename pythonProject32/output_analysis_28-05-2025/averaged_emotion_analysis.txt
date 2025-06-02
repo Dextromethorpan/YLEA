@@ -1,0 +1,171 @@
+AVERAGED LANGUAGE EMOTION ANALYSIS RESULTS
+==================================================
+
+Total Files Processed: 29
+Total Metrics: 22
+Processing Date: 2025-05-29 13:56:12
+
+EMOTION METRICS AVERAGES
+------------------------------
+
+POLARITY:
+  Mean: -0.0032
+  Median: 0.0120
+  Std Deviation: 0.0615
+  Range: -0.1320 - 0.0820
+  Sample Count: 29
+
+DISGUST:
+  Mean: 0.0007
+  Median: 0.0000
+  Std Deviation: 0.0037
+  Range: 0.0000 - 0.0200
+  Sample Count: 29
+
+DATE:
+  Mean: 2025.0000
+  Median: 2025.0000
+  Std Deviation: 0.0000
+  Range: 2025.0000 - 2025.0000
+  Sample Count: 29
+
+ANGER:
+  Mean: 1.5814
+  Median: 1.5400
+  Std Deviation: 0.3200
+  Range: 1.0400 - 2.3000
+  Sample Count: 29
+
+ID:
+  Mean: 6.5000
+  Median: 6.5000
+  Std Deviation: 1.2693
+  Range: 4.0000 - 9.0000
+  Sample Count: 10
+
+TRUST:
+  Mean: 0.9310
+  Median: 0.8900
+  Std Deviation: 0.3776
+  Range: 0.1900 - 1.7700
+  Sample Count: 29
+
+V:
+  Mean: 6.5000
+  Median: 6.5000
+  Std Deviation: 1.2693
+  Range: 4.0000 - 9.0000
+  Sample Count: 10
+
+SADNESS:
+  Mean: 0.0955
+  Median: 0.0700
+  Std Deviation: 0.0863
+  Range: 0.0200 - 0.4200
+  Sample Count: 29
+
+DURATION:
+  Mean: 10.1552
+  Median: 10.3000
+  Std Deviation: 3.9520
+  Range: 2.5000 - 18.1000
+  Sample Count: 29
+
+SCORE:
+  Mean: 10.2852
+  Median: 11.6000
+  Std Deviation: 2.7960
+  Range: 5.4900 - 16.9900
+  Sample Count: 29
+
+LENGTH:
+  Mean: 46.2897
+  Median: 42.1000
+  Std Deviation: 16.7876
+  Range: 16.9000 - 78.4000
+  Sample Count: 29
+
+ANALYZED:
+  Mean: 339.4828
+  Median: 1.0000
+  Std Deviation: 380.3893
+  Range: 1.0000 - 975.0000
+  Sample Count: 29
+
+NEUTRAL:
+  Mean: 6.1034
+  Median: 6.0000
+  Std Deviation: 1.9883
+  Range: 2.0000 - 10.0000
+  Sample Count: 29
+
+NEGATIVE:
+  Mean: 1.0000
+  Median: 1.0000
+  Std Deviation: 0.0000
+  Range: 1.0000 - 1.0000
+  Sample Count: 4
+
+EMOTION:
+  Mean: 10.2852
+  Median: 11.6000
+  Std Deviation: 2.7960
+  Range: 5.4900 - 16.9900
+  Sample Count: 29
+
+JOY:
+  Mean: 0.8952
+  Median: 0.8500
+  Std Deviation: 0.2744
+  Range: 0.4300 - 1.5300
+  Sample Count: 29
+
+FEAR:
+  Mean: 0.2734
+  Median: 0.2400
+  Std Deviation: 0.1542
+  Range: 0.0400 - 0.6700
+  Sample Count: 29
+
+SURPRISE:
+  Mean: 0.0572
+  Median: 0.0400
+  Std Deviation: 0.0421
+  Range: 0.0100 - 0.2100
+  Sample Count: 29
+
+PROCESSED:
+  Mean: 81.3103
+  Median: 76.0000
+  Std Deviation: 34.2367
+  Range: 24.0000 - 145.0000
+  Sample Count: 29
+
+VIDEO:
+  Mean: 6272.5172
+  Median: 6235.0000
+  Std Deviation: 2601.9788
+  Range: 2306.0000 - 12160.0000
+  Sample Count: 29
+
+POSITIVE:
+  Mean: 6.9655
+  Median: 7.0000
+  Std Deviation: 2.4565
+  Range: 3.0000 - 12.0000
+  Sample Count: 29
+
+ANTICIPATION:
+  Mean: 0.3190
+  Median: 0.3200
+  Std Deviation: 0.1443
+  Range: 0.0800 - 0.6800
+  Sample Count: 29
+
+
+DETAILED STATISTICS
+--------------------
+Overall Mean of Means: 401.2066
+Overall Std Dev of Means: 1380.6196
+
+Report generated successfully.

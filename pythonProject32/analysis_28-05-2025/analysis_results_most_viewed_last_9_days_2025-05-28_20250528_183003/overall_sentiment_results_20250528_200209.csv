@@ -1,0 +1,14 @@
+row_number,video_id,url,video_length_seconds,video_length_minutes,total_segments,word_count,overall_sentiment,polarity,subjectivity,joy_score,anger_score,fear_score,sadness_score,surprise_score,disgust_score,trust_score,anticipation_score
+3,hgQhPI-pKTo,https://www.youtube.com/watch?v=hgQhPI-pKTo,802.6,13.4,24,2130,neutral,-0.0,0.473,0.469,2.347,0.939,0.0,0.0,0.0,0.0,0.0
+4,R4jN7IEYNOs,https://www.youtube.com/watch?v=R4jN7IEYNOs,2383.6,39.7,71,6391,neutral,0.075,0.472,0.313,1.095,0.156,0.156,0.0,0.0,1.721,0.0
+12,V8DY6XBtrPk,https://www.youtube.com/watch?v=V8DY6XBtrPk,764.6,12.7,21,2544,positive,0.155,0.445,7.862,0.786,0.0,0.0,0.0,0.0,0.0,0.393
+13,MG3hsGALdN4,https://www.youtube.com/watch?v=MG3hsGALdN4,1228.2,20.5,37,4124,positive,0.135,0.457,0.242,1.697,0.0,0.0,0.0,0.0,1.697,0.242
+14,Bv_mYJHbwYM,https://www.youtube.com/watch?v=Bv_mYJHbwYM,643.8,10.7,20,1967,neutral,0.096,0.388,0.0,0.508,0.0,0.0,0.0,0.0,1.017,0.0
+17,5sr4LmoP3zk,https://www.youtube.com/watch?v=5sr4LmoP3zk,1198.7,20.0,34,4527,neutral,0.091,0.484,1.104,1.767,0.0,0.0,0.221,0.0,0.221,2.209
+21,6q9Kf_EpsD8,https://www.youtube.com/watch?v=6q9Kf_EpsD8,487.2,8.1,14,1459,neutral,0.022,0.363,0.0,0.685,0.0,0.0,0.0,0.0,0.0,0.0
+29,eqbBBDNY16o,https://www.youtube.com/watch?v=eqbBBDNY16o,2351.0,39.2,69,5153,neutral,0.076,0.423,0.0,1.358,0.0,0.194,0.194,0.0,0.0,0.0
+33,RWSUR3J8ebE,https://www.youtube.com/watch?v=RWSUR3J8ebE,639.6,10.7,20,2652,positive,0.195,0.469,0.377,2.262,0.0,0.0,0.377,0.0,0.754,0.0
+37,96r--tlcevA,https://www.youtube.com/watch?v=96r--tlcevA,887.4,14.8,26,2136,positive,0.147,0.459,0.468,0.468,0.0,0.468,0.0,0.0,2.809,0.0
+38,igutO94-JYo,https://www.youtube.com/watch?v=igutO94-JYo,10420.1,173.7,303,27388,neutral,0.097,0.51,0.475,2.081,0.146,0.11,0.037,0.0,0.694,0.073
+39,ATwVcYSH6qo,https://www.youtube.com/watch?v=ATwVcYSH6qo,7891.5,131.5,220,13460,neutral,0.09,0.521,0.966,1.56,1.634,0.149,0.149,0.0,0.966,0.0
+52,Hrco7tKNwkw,https://www.youtube.com/watch?v=Hrco7tKNwkw,1077.0,17.9,30,2403,neutral,0.07,0.37,0.0,1.665,0.0,0.0,0.0,0.0,0.0,0.0

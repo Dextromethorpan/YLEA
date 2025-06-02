@@ -1,0 +1,16 @@
+row_number,video_id,url,video_length_seconds,video_length_minutes,total_segments,word_count,overall_sentiment,polarity,subjectivity,joy_score,anger_score,fear_score,sadness_score,surprise_score,disgust_score,trust_score,anticipation_score
+2,Q-xFWVx5k3w,https://www.youtube.com/watch?v=Q-xFWVx5k3w,905.9,15.1,28,2775,neutral,0.079,0.529,0.36,2.883,1.441,0.0,0.0,0.0,1.802,0.0
+11,KF6l_BGQhIQ,https://www.youtube.com/watch?v=KF6l_BGQhIQ,734.8,12.2,22,1578,positive,0.115,0.52,3.169,0.0,0.634,0.0,0.0,0.0,1.267,0.0
+15,fcKP-8fNkrU,https://www.youtube.com/watch?v=fcKP-8fNkrU,15401.9,256.7,449,36449,positive,0.144,0.472,1.207,1.482,0.082,0.11,0.274,0.0,0.219,0.384
+16,fj9cjcFkFko,https://www.youtube.com/watch?v=fj9cjcFkFko,367.9,6.1,12,1191,positive,0.111,0.484,0.0,2.519,0.0,0.0,0.0,0.0,2.519,0.0
+22,7yrT5eImSMU,https://www.youtube.com/watch?v=7yrT5eImSMU,238.7,4.0,7,895,neutral,-0.002,0.417,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24,jJj9Z61WmUk,https://www.youtube.com/watch?v=jJj9Z61WmUk,629.8,10.5,19,1903,positive,0.185,0.487,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+27,RB0W67KF6IA,https://www.youtube.com/watch?v=RB0W67KF6IA,18566.6,309.4,535,49421,positive,0.124,0.477,1.032,0.526,0.243,0.101,0.162,0.0,0.607,0.344
+36,og53LdCFekI,https://www.youtube.com/watch?v=og53LdCFekI,423.4,7.1,13,1186,positive,0.14,0.514,0.843,0.843,0.0,0.0,0.0,0.0,0.0,0.0
+38,Ddat5o_CRCs,https://www.youtube.com/watch?v=Ddat5o_CRCs,2876.7,47.9,87,10831,positive,0.197,0.488,0.646,1.108,0.0,0.185,0.185,0.0,1.293,0.277
+39,_invBeC8VXw,https://www.youtube.com/watch?v=_invBeC8VXw,2432.0,40.5,71,5314,neutral,0.073,0.417,0.0,1.505,0.0,0.188,0.0,0.0,0.0,0.0
+43,zx7JPEP-w5U,https://www.youtube.com/watch?v=zx7JPEP-w5U,526.7,8.8,17,1614,neutral,0.072,0.378,0.0,2.478,0.0,0.0,0.0,0.0,0.0,0.62
+45,dZqL55kP-5A,https://www.youtube.com/watch?v=dZqL55kP-5A,5460.5,91.0,141,2187,positive,0.485,0.948,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+53,4o9Mes5Y4s0,https://www.youtube.com/watch?v=4o9Mes5Y4s0,1912.3,31.9,53,3536,positive,0.258,0.498,1.697,0.566,0.0,0.0,0.0,0.0,1.131,0.283
+56,yjsJrefNL00,https://www.youtube.com/watch?v=yjsJrefNL00,749.2,12.5,19,417,positive,0.178,0.461,2.398,0.0,0.0,0.0,0.0,0.0,2.398,0.0
+58,watLSiSKds4,https://www.youtube.com/watch?v=watLSiSKds4,9346.1,155.8,275,22247,neutral,0.095,0.478,0.584,2.292,1.259,0.27,0.0,0.0,0.449,0.135

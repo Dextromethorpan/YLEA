@@ -1,0 +1,11 @@
+row_number,video_id,url,video_length_seconds,video_length_minutes,total_segments,word_count,overall_sentiment,polarity,subjectivity,joy_score,anger_score,fear_score,sadness_score,surprise_score,disgust_score,trust_score,anticipation_score
+4,Zzt5IxhlxHk,https://www.youtube.com/watch?v=Zzt5IxhlxHk,1495.2,24.9,44,4371,neutral,0.062,0.473,0.458,2.059,0.458,1.144,0.0,0.0,0.915,0.458
+7,26kLN1A05zQ,https://www.youtube.com/watch?v=26kLN1A05zQ,929.2,15.5,28,2708,neutral,0.018,0.507,0.369,1.477,0.369,0.0,0.0,0.0,0.0,0.0
+8,Bhn5Tke5aQ8,https://www.youtube.com/watch?v=Bhn5Tke5aQ8,930.3,15.5,29,3127,positive,0.133,0.454,0.959,3.198,0.0,0.0,0.0,0.0,0.0,0.32
+15,59EvT0hkmw0,https://www.youtube.com/watch?v=59EvT0hkmw0,171.8,2.9,5,583,positive,0.116,0.576,1.715,1.715,0.0,1.715,0.0,0.0,0.0,0.0
+25,7yrT5eImSMU,https://www.youtube.com/watch?v=7yrT5eImSMU,238.7,4.0,7,895,neutral,-0.002,0.417,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32,-DXhoSRKTU8,https://www.youtube.com/watch?v=-DXhoSRKTU8,138.0,2.3,5,400,neutral,-0.034,0.439,2.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+35,SEnVPAo7mr0,https://www.youtube.com/watch?v=SEnVPAo7mr0,1532.9,25.5,45,4143,positive,0.21,0.541,0.483,0.241,0.0,0.241,0.241,0.0,0.0,0.0
+36,ATwVcYSH6qo,https://www.youtube.com/watch?v=ATwVcYSH6qo,7891.5,131.5,220,13460,neutral,0.09,0.521,0.966,1.56,1.634,0.149,0.149,0.0,0.966,0.0
+50,dZqL55kP-5A,https://www.youtube.com/watch?v=dZqL55kP-5A,5460.5,91.0,141,2187,positive,0.485,0.948,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+51,Hrco7tKNwkw,https://www.youtube.com/watch?v=Hrco7tKNwkw,1077.0,17.9,30,2403,neutral,0.07,0.37,0.0,1.665,0.0,0.0,0.0,0.0,0.0,0.0

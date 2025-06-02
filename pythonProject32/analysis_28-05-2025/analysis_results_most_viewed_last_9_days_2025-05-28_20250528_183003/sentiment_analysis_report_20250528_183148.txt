@@ -1,0 +1,50 @@
+================================================================================
+YOUTUBE VIDEO SENTIMENT ANALYSIS REPORT
+================================================================================
+Analysis Date: 2025-05-28 18:31:48
+Source CSV: most_viewed_last_9_days_2025-05-28.csv
+Total Videos Analyzed: 13
+
+--------------------------------------------------
+OVERALL STATISTICS
+--------------------------------------------------
+Total Segments Analyzed: 889
+Total Words Processed: 76,334
+Total Duration: 8.5 hours
+Average Video Length: 39.5 minutes
+Average Words per Video: 5872
+
+Sentiment Distribution:
+  Neutral: 9 videos (69.2%)
+  Positive: 4 videos (30.8%)
+
+--------------------------------------------------
+EMOTION ANALYSIS
+--------------------------------------------------
+Average Emotion Scores (ranked by intensity):
+         Anger:   1.41
+           Joy:   0.94
+         Trust:   0.76
+  Anticipation:   0.22
+          Fear:   0.22
+       Sadness:   0.08
+      Surprise:   0.08
+       Disgust:   0.00
+
+--------------------------------------------------
+NOTABLE VIDEOS
+--------------------------------------------------
+Most Positive Video:
+  Video ID: RWSUR3J8ebE
+  Polarity: 0.195
+  URL: https://www.youtube.com/watch?v=RWSUR3J8ebE
+
+Most Negative Video:
+  Video ID: hgQhPI-pKTo
+  Polarity: -0.000
+  URL: https://www.youtube.com/watch?v=hgQhPI-pKTo
+
+Most Emotional Video:
+  Video ID: V8DY6XBtrPk
+  Total Emotion Score: 9.04
+  URL: https://www.youtube.com/watch?v=V8DY6XBtrPk

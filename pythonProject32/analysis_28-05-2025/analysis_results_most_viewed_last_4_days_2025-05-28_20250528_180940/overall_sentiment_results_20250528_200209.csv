@@ -1,0 +1,14 @@
+row_number,video_id,url,video_length_seconds,video_length_minutes,total_segments,word_count,overall_sentiment,polarity,subjectivity,joy_score,anger_score,fear_score,sadness_score,surprise_score,disgust_score,trust_score,anticipation_score
+2,6BdwIyt0fVU,https://www.youtube.com/watch?v=6BdwIyt0fVU,862.1,14.4,25,1606,positive,0.186,0.51,0.0,0.0,1.245,0.0,0.0,0.0,4.359,0.0
+5,3FZipnSI_po,https://www.youtube.com/watch?v=3FZipnSI_po,1168.2,19.5,35,3283,neutral,0.085,0.416,0.305,1.828,0.609,0.0,0.0,0.0,0.609,0.0
+9,GMF0S_zA33A,https://www.youtube.com/watch?v=GMF0S_zA33A,2106.8,35.1,46,2102,positive,0.137,0.5,0.951,2.379,1.427,0.0,0.0,0.0,0.476,0.0
+18,59EvT0hkmw0,https://www.youtube.com/watch?v=59EvT0hkmw0,171.8,2.9,5,583,positive,0.116,0.576,1.715,1.715,0.0,1.715,0.0,0.0,0.0,0.0
+19,Bv_mYJHbwYM,https://www.youtube.com/watch?v=Bv_mYJHbwYM,643.8,10.7,20,1967,neutral,0.096,0.388,0.0,0.508,0.0,0.0,0.0,0.0,1.017,0.0
+26,ZiFanZQnN0o,https://www.youtube.com/watch?v=ZiFanZQnN0o,23243.2,387.4,637,42934,positive,0.16,0.528,1.607,1.584,0.536,0.279,0.21,0.0,0.722,0.629
+32,-_ZukB8KyWY,https://www.youtube.com/watch?v=-_ZukB8KyWY,259.7,4.3,7,508,neutral,0.08,0.448,0.0,3.937,3.937,0.0,0.0,0.0,0.0,0.0
+33,qGMGtdY6oLc,https://www.youtube.com/watch?v=qGMGtdY6oLc,7676.5,127.9,228,24403,positive,0.129,0.461,0.492,1.147,0.205,0.041,0.0,0.0,0.287,0.123
+34,dxyLvZdojJ4,https://www.youtube.com/watch?v=dxyLvZdojJ4,310.0,5.2,10,795,neutral,0.085,0.411,0.0,0.0,0.0,0.0,0.0,0.0,5.031,0.0
+36,R-3e7SV8y7c,https://www.youtube.com/watch?v=R-3e7SV8y7c,3306.0,55.1,92,7010,neutral,0.067,0.414,1.854,1.712,0.285,0.143,0.0,0.0,1.569,0.0
+38,D4wcq125Y4M,https://www.youtube.com/watch?v=D4wcq125Y4M,599.2,10.0,15,1465,neutral,0.042,0.563,4.096,2.73,0.0,0.0,0.0,0.0,2.048,2.73
+55,PMycShbFMPo,https://www.youtube.com/watch?v=PMycShbFMPo,1251.3,20.9,31,1833,neutral,0.076,0.426,0.0,2.728,0.0,0.0,0.0,0.0,0.0,0.546
+57,QyYKoVzUY28,https://www.youtube.com/watch?v=QyYKoVzUY28,1186.2,19.8,36,3118,neutral,0.015,0.384,0.0,0.641,0.0,0.0,0.641,0.0,1.283,0.321
